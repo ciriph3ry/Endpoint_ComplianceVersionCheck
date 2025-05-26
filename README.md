@@ -1,2 +1,4 @@
 # Endpoint_ComplianceVersionCheck
-Runs a remote script on a domain joined Windows endpoint to check various applications such as browsers for update compliance
+
+Minimal script to check NT kernel, Edge, Firefox, and Chrome on a remote system,
+showing whether they're installed and if they are older than 60 days.
